@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\Character\Input_Control.cs">
+    <Files>
+      <File FileName="Assets\_Scripts\Mode\Juggle_Scene_Mode.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\NetWork\ServerManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\NetWork\NetWorkManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Character\Input_Control.cs" Line="194" Column="125" />
+      <File FileName="Assets\_Scripts\Character\Arrow.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\_Shaders\Water.shader" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\_Shaders\3DPrint.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
